@@ -1,0 +1,86 @@
+cs1302-gallery:
+total 68
+-rw-r--r-- 1 ugrad  2569 Oct 31 09:46 pom.xml
+-rw-r--r-- 1 ugrad 46607 Oct 31 09:46 README.md
+-rw-r--r-- 1 ugrad     0 Nov 11 09:45 rec2926
+drwxr-xr-x 2 ugrad  4096 Nov  5 13:08 resources
+-rw-r--r-- 1 ugrad   141 Nov  4 10:29 run.sh
+drwxr-xr-x 3 ugrad  4096 Oct 31 09:46 src
+drwxr-xr-x 5 ugrad  4096 Nov  7 14:00 target
+
+cs1302-gallery/resources:
+total 56
+-rw-r--r-- 1 ugrad 55031 Nov  5 13:08 prof_pic.jpg
+
+cs1302-gallery/src:
+total 4
+drwxr-xr-x 3 ugrad 4096 Oct 31 09:46 main
+
+cs1302-gallery/src/main:
+total 4
+drwxr-xr-x 3 ugrad 4096 Oct 31 09:46 java
+
+cs1302-gallery/src/main/java:
+total 4
+drwxr-xr-x 3 ugrad 4096 Oct 31 09:46 cs1302
+
+cs1302-gallery/src/main/java/cs1302:
+total 4
+drwxr-xr-x 2 ugrad 4096 Nov 11 09:44 gallery
+
+cs1302-gallery/src/main/java/cs1302/gallery:
+total 36
+-rw-r--r-- 1 ugrad 1277 Nov  4 14:30 ActionBar.java
+-rw-r--r-- 1 ugrad 9253 Nov 11 09:44 GalleryApp.java
+-rw-r--r-- 1 ugrad 2058 Nov  5 13:43 GalleryBar.java
+-rw-r--r-- 1 ugrad  795 Nov  4 23:44 GalleryDriver.java
+-rw-r--r-- 1 ugrad 4307 Nov  6 16:09 GalleryPictures.java
+-rw-r--r-- 1 ugrad 2905 Nov  5 13:40 Picture.java
+
+cs1302-gallery/target:
+total 12
+drwxr-xr-x 3 ugrad 4096 Nov  7 14:00 classes
+drwxr-xr-x 3 ugrad 4096 Nov  7 14:00 generated-sources
+drwxr-xr-x 3 ugrad 4096 Nov  7 14:00 maven-status
+
+cs1302-gallery/target/classes:
+total 4
+drwxr-xr-x 3 ugrad 4096 Nov  7 14:00 cs1302
+
+cs1302-gallery/target/classes/cs1302:
+total 4
+drwxr-xr-x 2 ugrad 4096 Nov  7 14:00 gallery
+
+cs1302-gallery/target/classes/cs1302/gallery:
+total 32
+-rw-r--r-- 1 ugrad 1246 Nov  7 14:00 ActionBar.class
+-rw-r--r-- 1 ugrad 9098 Nov  7 14:00 GalleryApp.class
+-rw-r--r-- 1 ugrad 3335 Nov  7 14:00 GalleryBar.class
+-rw-r--r-- 1 ugrad 1126 Nov  7 14:00 GalleryDriver.class
+-rw-r--r-- 1 ugrad 3922 Nov  7 14:00 GalleryPictures.class
+-rw-r--r-- 1 ugrad 3184 Nov  7 14:00 Picture.class
+
+cs1302-gallery/target/generated-sources:
+total 4
+drwxr-xr-x 2 ugrad 4096 Nov  7 14:00 annotations
+
+cs1302-gallery/target/generated-sources/annotations:
+total 0
+
+cs1302-gallery/target/maven-status:
+total 4
+drwxr-xr-x 3 ugrad 4096 Nov  7 14:00 maven-compiler-plugin
+
+cs1302-gallery/target/maven-status/maven-compiler-plugin:
+total 4
+drwxr-xr-x 3 ugrad 4096 Nov  7 14:00 compile
+
+cs1302-gallery/target/maven-status/maven-compiler-plugin/compile:
+total 4
+drwxr-xr-x 2 ugrad 4096 Nov  7 14:00 default-compile
+
+cs1302-gallery/target/maven-status/maven-compiler-plugin/compile/default-compile:
+total 8
+-rw-r--r-- 1 ugrad 196 Nov  7 14:00 createdFiles.lst
+-rw-r--r-- 1 ugrad 472 Nov  7 14:00 inputFiles.lst
+/home/ugrads/horn/cs1302-gallery:/home/work/cs1302a
